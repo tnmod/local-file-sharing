@@ -9,8 +9,8 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
-/public/files
 /public/files/*
+!/public/files/.gitkeep
 # testing
 /coverage
 

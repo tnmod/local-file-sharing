@@ -14,7 +14,7 @@ A simple file sharing application built with Next.js that allows sharing files w
 
 - Node.js (v18 or higher)
 - npm or yarn
-- Next.js 14+
+- Next.js 15
 
 ## Installation
 
